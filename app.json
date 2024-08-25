@@ -1,8 +1,8 @@
 {
-    "name": "𝗟𝗶𝗹𝘆 𝗨𝘀𝗲𝗿𝗯𝗼𝘁",
+    "name": "𝗚𝗢𝗞𝗨 𝗨𝘀𝗲𝗿𝗯𝗼𝘁",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/Team-CF-Bots/Lily-Userbot",
+    "repository": "https://github.com/Mrdadgoku/New-Userbot",
   "stack": "container",
     "env": {
         "STRING_SESSION": {
@@ -27,12 +27,12 @@
         "API_ID": {
             "description": "Fill there your API_ID",
             "required": true,
-            "value": "12380656"
+            "value": "21415583"
         },
         "API_HASH": {
             "description": "Fill there your API_HASH",
             "required": true,
-            "value": "d927c13beaaf5110f25c505b7c071273" 
+            "value": "537124a5f4131e215aa2aefafae96db4" 
         }
 
     }
