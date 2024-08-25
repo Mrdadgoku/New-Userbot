@@ -442,13 +442,13 @@ RAID = [
 ]
 
 
-GRP = "@V3NOM_WORLD"
+GRP = "@GOKUxMODZ"
 
-GROUP = [-1002041763518]
+GROUP = [-1001891687243]
 
-VERIFIED_USERS = [6812888267]
+VERIFIED_USERS = [6462365139]
 
-Owners = "@its_Aryaan"
+Owners = "@GOKUxEDITION"
 
 PORM = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
