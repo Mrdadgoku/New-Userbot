@@ -4,13 +4,13 @@ from pyrogram.types import Message
 from Romeo import SUDO_USER
 from config import *
 
-R = "𝐋ɪʟʏ 𝐔sᴇʀʙᴏᴛ 𝐂ᴍᴅs"
+R = "•Gᴏᴋᴜ X ᴜꜱᴇʀʙᴏᴛ™ 𝐂ᴍᴅs"
 
 @Client.on_message(filters.command(["help"], ".") & (filters.me | filters.user(SUDO_USER)))
 async def help(client: Client, message: Message):
-    C = "https://graph.org/file/0d67f6f9439af27bdb52d.jpg"
+    C = "https://graph.org/file/ef7782ca71ddef38077ce.jpg"
     CD = """
-   ʟɪʟʏ ᴜsᴇʀʙᴏᴛ ʜᴇʟᴘ ᴍᴇɴᴜ
+   •Gᴏᴋᴜ X ᴜꜱᴇʀʙᴏᴛ™ ʜᴇʟᴘ ᴍᴇɴᴜ
 ________________________________
            ʙᴏᴛ
 `.alive` - ᴄʜᴇᴋ ʙᴏᴛ ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ
